@@ -8,6 +8,7 @@ public class Main {
             for (int j = 0; i < mas[i].length; i++) {
             }
         }
+        System.out.println("MY NAME");
     }
 
 
